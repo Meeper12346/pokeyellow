@@ -12,7 +12,7 @@ TypeNames:
 	dw .Ghost
 	dw .Steel
 
-REPT FIRE - GHOST - 1
+REPT FIRE - STEEL - 1
 	dw .Normal
 ENDR
 
